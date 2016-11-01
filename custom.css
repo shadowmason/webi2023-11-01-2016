@@ -20,7 +20,8 @@ body{
    }
    
 header{
-   background: #aaa;
+   background: #17722F;
+   color: #fff;
    min-height: 50px;
    text-align: center;
    padding: 10px 0;
@@ -43,7 +44,8 @@ main{
    
    
 footer{
-   background: #aaa;
+    background: #17722F;
+   color: #fff;
    padding: 10px 30px;
    min-height: 25px;
    text-align:center;
